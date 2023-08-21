@@ -1,6 +1,6 @@
 - 👋 Olá, eu me chamo Deivid;
 - 👀 Estou enteressado em JAVA o qual estou estudando e aprendendo mais a cada dia;
-- 🌱 Fiz um curso onde aprendi desde OO ate JPA, swing, JAVAFX e o spring;
+- 🌱 Fiz um curso onde aprendi desde OO ate JPA, swing, JAVAFX e spring;
 - 💞️ Quero ingressar na carreira e continuar aprendendo sobre esse mundo de programação;
 - 📫 tenho meu email deividzio123@gmail.com.
 
